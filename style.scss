@@ -106,7 +106,7 @@ strong, b {
   font-weight: bold;
 }
 
-img {
+article img {
   max-width: calc(100% + 6rem);
   margin: 0 -3rem;
 
@@ -151,6 +151,7 @@ iframe {
 
   img {
     border-radius: 5px;
+    max-width: 100%
   }
 }
 
