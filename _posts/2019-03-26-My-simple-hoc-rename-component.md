@@ -49,7 +49,7 @@ So here's how I solved it, with a very heavy-handed higher-order component:
 // This HOC simply renames $ngRedux to store (because this is used with react2angular)
 const mapNgReduxToStore = WrappedComponent => {
   const MappedComponent = ({ $ngRedux, ...rest }) => {
-    return (<WrappedComponent {...rest} store2={$ngRedux} />);
+    return (<WrappedComponent {...rest} store={$ngRedux} />);
   };
   MappedComponent.displayName = `WithStore(${WrappedComponent.displayName})`;
   MappedComponent.propTypes = {
