@@ -17,5 +17,5 @@ If you are interested in my professional career, let me direct you to my [Linked
 
 ### Contact me
 
-[andrewjd1@gmail.com.com](mailto:andrewjd1@gmail.com)
-[LinkedIn profile](https://linkedin.com/in/ajdaniel)
+- :email: [andrewjd1@gmail.com.com](mailto:andrewjd1@gmail.com)
+- :computer: [LinkedIn profile](https://linkedin.com/in/ajdaniel)
