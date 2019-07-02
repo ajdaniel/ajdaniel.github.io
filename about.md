@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am an IBM Software Engineer developing full-stack cloud native Watson applications such as [IBM Watson Assistant](https://www.ibm.com/watson/ai-assistant/).
+I am an IBM Software Engineer developing full-stack cloud native enterprise applications such as [IBM Watson Assistant](https://www.ibm.com/watson/ai-assistant/), [IBM Watson Compare & Comply](https://www.ibm.com/cloud/compare-and-comply), [IBM API Connect](https://cloud.ibm.com/apis/overview) and [IBM i2 IAP](https://www.ibm.com/security/intelligence-analysis/i2).
 
 I studied Computer Science (Games Technology) at Nottingham Trent University and graduated in 2009.
 
-I specialise in front-end development, using React and Angular, using modern ES6+ with Flow or Typescript. I deploy using Kubernetes and Cloud Foundry onto IBM Cloud (formerly Bluemix). I have worked in small and large teams, locally and accross the world. I love bringing code and AI to young minds through Code Clube and [Machine Learning for kids](https://machinelearningforkids.co.uk). I love coding and learning new technologies!
+I specialise in front-end development, using React and Angular, using modern ES6+ with Flow or Typescript. I deploy using Kubernetes and Cloud Foundry onto IBM Cloud (formerly Bluemix). I have worked in small and large teams, locally and accross the world. I love learning and teaching all technologies.
+
+I love bringing code and AI to young minds through [Code Club](https://codeclub.org/) and [Machine Learning for kids](https://machinelearningforkids.co.uk), or corporate events like IBM Call for Code.
 
 This year I got married to the love of my life. I love spending time with her or my family. I love gaming, TV and movies along with playing Badminton and Snooker.
 
