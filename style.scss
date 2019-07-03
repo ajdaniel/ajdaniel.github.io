@@ -148,7 +148,9 @@ iframe {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $date;
+  margin: 0;
+  text-align: left;
 }
 
 // Specify the color of the selection
