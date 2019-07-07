@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am joining Unity Technologies!
+excerpt: Andrew has left IBM to join Unity Technologies
 ---
 
 ![Me at IBM]({{ site.baseurl }}/images/andy_ibm.jpeg)

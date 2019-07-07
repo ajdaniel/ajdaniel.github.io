@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+excerpt: About Andrew James Daniel
 ---
 
 :wave: hey, I'm Andrew James Daniel.
