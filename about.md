@@ -14,7 +14,7 @@ Previously, I was an IBM Software Engineer developing full-stack cloud native en
 
 ### My Skills and experiences
 
-I specialise in front-end development, using React and Angular, using modern ES6+ with Flow or Typescript, using Redux and/or GraphQL, connecting to databases like Cloudant (CouchDB) or Mongo. I deploy using Kubernetes and Cloud Foundry onto IBM Cloud (formerly Bluemix). I have worked in small and large teams, locally and accross the world. I love learning and teaching all technologies.
+I specialise in front-end development, using React and Angular, using modern ES6+ with Flow or Typescript, using Redux and/or GraphQL, connecting to databases like Cloudant (CouchDB) or Mongo. I deploy using Kubernetes and Cloud Foundry onto IBM Cloud (formerly Bluemix). I have worked in small and large teams, locally and across the world. I love learning and teaching all technologies.
 
 I love bringing code and AI to young minds through [Code Club](https://codeclub.org/) and [Machine Learning for kids](https://machinelearningforkids.co.uk), or corporate events like IBM Call for Code.
 
