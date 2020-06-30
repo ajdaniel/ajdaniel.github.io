@@ -22,7 +22,9 @@ body {
 .container {
   margin-left: auto;
   margin-right: auto;
-  max-width: 740px;
+  max-width: 800px;
+  padding-left: 10px;
+  padding-right: 10px;
 
   @include mobile {
     margin-left: 5px;
@@ -149,7 +151,6 @@ iframe {
 .date {
   font-style: italic;
   color: $date;
-  margin: 0;
   text-align: left;
 }
 

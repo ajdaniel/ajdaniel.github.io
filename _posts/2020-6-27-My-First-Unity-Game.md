@@ -11,5 +11,3 @@ It's called Metal Gear Billy, and is hosted on itch.io. There's a link to the ga
 With that, here's my first game! Try to catch as many pigeons as possible, without getting too close that they fly away. The game is based on my own cat Billy, if that wasn't obvious. Enjoy!
 
 <iframe frameborder="0" src="https://itch.io/embed/680882" width="552" height="167"><a href="https://ajdaniel.itch.io/metal-gear-billy">Metal Gear Billy by Andrew Daniel</a></iframe>
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/2410092?color=0c122b" allowfullscreen="" width="734" height="474"><a href="https://ajdaniel.itch.io/metal-gear-billy">Play Metal Gear Billy on itch.io</a></iframe>

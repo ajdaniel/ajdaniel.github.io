@@ -4,18 +4,18 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts limit:10 %}
-    <article class="post">
+  <article class="post">
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="date">
+      {{ post.date | date: "%B %e, %Y" }}
+    </div>
 
-      <div class="entry">
-        {{ post.content }}
-      </div>
+    <div class="entry">
+      {{ post.content }}
+    </div>
 
-      <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }}
-      </div>
-      <!-- a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a -->
-    </article>
+    <!-- a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a -->
+  </article>
   {% endfor %}
 </div>

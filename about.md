@@ -23,7 +23,7 @@ I love bringing code and AI to young minds through [Code Club](https://codeclub.
 
 I studied Computer Science (Games Technology) at Nottingham Trent University in the UK and graduated in 2009.
 
-This year I got married to the love of my life. I love spending time with her or my family. I love gaming, TV and movies along with playing Badminton and Snooker.
+I am married and I love gaming, TV and movies along with playing Badminton and Snooker.
 
 If you are interested in my professional career, let me direct you to my [LinkedIn profile](https://linkedin.com/in/ajdaniel).
 
