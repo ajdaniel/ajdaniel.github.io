@@ -17,6 +17,11 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+
+  @media (prefers-color-scheme: dark) {
+    background: #181918;
+    color: #ddd;
+  }
 }
 
 .container {
@@ -45,6 +50,10 @@ h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
+
+  @media (prefers-color-scheme: dark) {
+    color: #ffffff;
+  }
 
   @include mobile {
     line-height: 1.4;
@@ -205,6 +214,10 @@ header {
   font-size: 1.8rem;
   letter-spacing: 1px;
 
+  @media (prefers-color-scheme: dark) {
+    color: $white;
+  }
+
   @include mobile {
     font-size: 1.5rem;
   }
@@ -234,6 +247,10 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+
+    @media (prefers-color-scheme: dark) {
+      color: $white;
+    }
 
     @include mobile {
       margin: 0 5px;
