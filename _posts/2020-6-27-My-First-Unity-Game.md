@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metal Gear Billy - My first Unity Game
-excerpt: Andrew has left IBM to join Unity Technologies
+excerpt: How I built my first small game in Unity
 ---
 
 I've been working at Unity for almost a year now, and one of the special events that the company hosts every year is Hackweek. During this annual 1 week event, most of the employees get the opportunity to work on a special innovative project of their choice, _or_ spend the week in a Unity Bootcamp, learning how to use this amazing video game tool that so many great video games utilize for their success. I chose the latter, and built my first game.
