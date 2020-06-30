@@ -263,6 +263,10 @@ nav {
 // .main
 //
 
+.main {
+  min-height: calc(100vh - 328px);
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -295,9 +299,12 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: black;
+    color: white;
+  }
 }
 
 footer {
